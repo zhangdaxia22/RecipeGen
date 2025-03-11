@@ -8,7 +8,7 @@ Data can be [download](https://1drv.ms/f/c/3de24ecbad483902/Em8838JCIwNIvk_-IcNX
 We propose RecipeGen Benchmark (RGB), a goal-instruction image dataset designed to evaluate text-to-image models (T2Is) in understanding cooking instructions. RGB includes 21,944 recipes with 139,872 images and steps, encompassing diverse regional dishes and cooking styles. Collected from a large set of user-uploaded, real-world recipes.
 Every recipe contains goal, steps and images.
 There are some examples.
-
+![example2](images/example2.png)
 ![example](images/data.png)
 
 ## 🧪 Keywords
