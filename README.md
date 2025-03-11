@@ -22,3 +22,18 @@ We have 158 keywords totally.
 If you have any questions or suggestions, feel free to reach out:
 
 - Email: zhangrx22@mails.jlu.edu.cn
+### 📝 Citing
+
+If you found this benchmark useful, please consider citing:
+
+```bibtex
+@misc{RecipeGen,
+      title={RecipeGen: A Benchmark for Real-World Recipe Image Generation}, 
+      author={Ruoxuan Zhang, Hongxia Xie, Yi Yao, Jian-Yu Jiang-Lin, Bin Wen, Ling Lo, Hong-Han Shuai, Yung-Hui Li,Wen-Huang Cheng},
+      year={2025},
+      eprint={2503.05228},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.05228}, 
+}
+```
