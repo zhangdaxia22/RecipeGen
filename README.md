@@ -29,13 +29,10 @@ If you have any questions or suggestions, feel free to reach out:
 If you found this benchmark useful, please consider citing:
 
 ```bibtex
-@misc{RecipeGen,
-      title={RecipeGen: A Benchmark for Real-World Recipe Image Generation}, 
-      author={Ruoxuan Zhang, Hongxia Xie, Yi Yao, Jian-Yu Jiang-Lin, Bin Wen, Ling Lo, Hong-Han Shuai, Yung-Hui Li,Wen-Huang Cheng},
-      year={2025},
-      eprint={2503.05228},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.05228}, 
+@article{zhang2025recipegen,
+  title={RecipeGen: A Benchmark for Real-World Recipe Image Generation},
+  author={Zhang, Ruoxuan and Xie, Hongxia and Yao, Yi and Jiang-Lin, Jian-Yu and Wen, Bin and Lo, Ling and Shuai, Hong-Han and Li, Yung-Hui and Cheng, Wen-Huang},
+  journal={arXiv preprint arXiv:2503.05228},
+  year={2025}
 }
 ```
