@@ -1,6 +1,6 @@
 # RecipeGen
 A Real-World Goal-Step-Image Recipe Dataset. <br>
-Data can be [download](https://1drv.ms/u/c/3de24ecbad483902/EUx9G_7wy45Mprq0CEqopcwBwOJsT4mCfy981LkUgPwNYQ?e=2ydzOo).
+Data can be find in  [huggingface](https://huggingface.co/datasets/RUOXUAN123/RecipeGen).
 
 **RecipeGen: A Benchmark for Real-World Recipe Image Generation** [[Paper](https://arxiv.org/abs/2503.05228)] <br>
 
