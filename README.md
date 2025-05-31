@@ -17,7 +17,7 @@ There are some examples.
 We have 158 keywords totally.
 
 ![keywords](images/keyword.png)
-![keyword](images/keywords.jpg)
+
 
 
 ## 📧 Contact
